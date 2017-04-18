@@ -9,6 +9,9 @@
     ],
     "require": {},
     "autoload": {
+        "classmap": [
+            "src"
+        ],
         "psr-4": {
             "Mijat\\Blogtest\\": "src/"
         }
