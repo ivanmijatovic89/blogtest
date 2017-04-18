@@ -1,0 +1,11 @@
+{
+    "name": "ivanmijatovic89/blogtest",
+    "description": "Laravel 5 Blog package ( Test )",
+    "authors": [
+        {
+            "name": "Ivan Mijatovic",
+            "email": "ivanmijatovic89@gmail.com"
+        }
+    ],
+    "require": {}
+}
