@@ -8,5 +8,6 @@
         }
     ],
     "require": {},
-    "minimum-stability": "dev"
+    "minimum-stability":"dev"
+
 }
